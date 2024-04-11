@@ -17,11 +17,32 @@ for i in range(1, 1001):
 def E(a, b):
     return F[a]*(b - a) + F[b]* (1000 - b)
 
+Fcont = [0 for i in range(1001)]
+
+for i in range(901, 1001):
+    Fcont[i] = (900-i)**2/10_000
+
+def Econt(a, b):
+    return Fcont[a]*(b - a) + Fcont[b]* (1000 - b)
+
 currMax = 0
 invMax = [900, 900]
 for a in range(900, 1001):
     for b in range(a, 1001):
         e = E(a, b)
+        if e > currMax:
+            currMax = e
+            invMax = [a, b]
+
+print(invMax)
+print(currMax)
+
+
+currMax = 0
+invMax = [900, 900]
+for a in range(900, 1001):
+    for b in range(a, 1001):
+        e = Econt(a, b)
         if e > currMax:
             currMax = e
             invMax = [a, b]

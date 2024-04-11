@@ -1,0 +1,522 @@
+Sandbox logs:
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"de946f59-9a87-48b7-8555-1734e8486ddd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"de946f59-9a87-48b7-8555-1734e8486ddd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 0
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"662f2a33-a861-4a1c-b321-061fe8cb0b89\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"662f2a33-a861-4a1c-b321-061fe8cb0b89\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"414ca29f-b827-40bd-9afe-16270e13562b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"414ca29f-b827-40bd-9afe-16270e13562b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2f930ca9-ca1a-47c9-a711-9c894e7cb263\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2f930ca9-ca1a-47c9-a711-9c894e7cb263\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"fbbc297a-5d13-49b4-94ce-65448f33ceb3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"fbbc297a-5d13-49b4-94ce-65448f33ceb3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ad34788e-fcac-4734-88af-2abc2acf2519\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ad34788e-fcac-4734-88af-2abc2acf2519\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e9034c8c-5e0c-4305-8f0c-0083582bcf54\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e9034c8c-5e0c-4305-8f0c-0083582bcf54\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e811a620-1f10-4315-85ea-bb6969a16ecd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e811a620-1f10-4315-85ea-bb6969a16ecd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"15ea1036-c76f-4b49-a96a-7925d7d6a7b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"15ea1036-c76f-4b49-a96a-7925d7d6a7b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b8629ba3-89ed-4243-a030-71dc8ac0fe06\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b8629ba3-89ed-4243-a030-71dc8ac0fe06\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a163d80c-e202-44d4-9bfb-1794c88a0e85\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a163d80c-e202-44d4-9bfb-1794c88a0e85\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5a44baa4-946d-4035-b973-f34f852aa35c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5a44baa4-946d-4035-b973-f34f852aa35c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7c44ae12-f098-4ed6-b926-492004a0cc69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7c44ae12-f098-4ed6-b926-492004a0cc69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c3f77c8e-72d8-4a7b-bfa4-b508cd8a6829\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c3f77c8e-72d8-4a7b-bfa4-b508cd8a6829\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"776898ee-f2bc-40b8-a878-ea9dbd61ffd2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"776898ee-f2bc-40b8-a878-ea9dbd61ffd2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"49189ba0-8995-4b7b-bc9e-f2700c97f930\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"49189ba0-8995-4b7b-bc9e-f2700c97f930\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7f70d6ec-1bf8-432c-a44f-d78d810edd4a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7f70d6ec-1bf8-432c-a44f-d78d810edd4a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"025fdf53-385f-4c36-bf8d-1de72d0a88ed\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"025fdf53-385f-4c36-bf8d-1de72d0a88ed\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"26c0b320-3756-4928-aafa-0c8d3f92c16e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"26c0b320-3756-4928-aafa-0c8d3f92c16e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"211f2d68-69d6-41eb-9954-4a946cbdcbd1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"211f2d68-69d6-41eb-9954-4a946cbdcbd1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 1900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"63912e52-aa25-4e81-8011-0b3f015c9868\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"63912e52-aa25-4e81-8011-0b3f015c9868\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"af18058b-ef79-40dd-8ecf-e54658fa4fb1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"af18058b-ef79-40dd-8ecf-e54658fa4fb1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"224da438-44ee-442c-b3bd-749f29b00809\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"224da438-44ee-442c-b3bd-749f29b00809\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2ce28168-385d-47b7-8f1a-b26a4a3e10db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2ce28168-385d-47b7-8f1a-b26a4a3e10db\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"f4f001fe-0516-41b4-a4e9-f5839ccf9cba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"f4f001fe-0516-41b4-a4e9-f5839ccf9cba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"540e9c93-d3fe-4b52-a725-725d50f20379\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"540e9c93-d3fe-4b52-a725-725d50f20379\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"aedca40f-ffba-4b07-bad5-b2c8e5ee3aa2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"aedca40f-ffba-4b07-bad5-b2c8e5ee3aa2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7db819df-0405-4bd6-8e4f-2022ee0961cd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7db819df-0405-4bd6-8e4f-2022ee0961cd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8b935157-5ed9-4630-803c-2c00dd47f834\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8b935157-5ed9-4630-803c-2c00dd47f834\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c732a3c3-b8bb-4151-a3b1-a94b984973bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c732a3c3-b8bb-4151-a3b1-a94b984973bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 2900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"446f7773-8ca1-457b-84f5-1f2243e804bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"446f7773-8ca1-457b-84f5-1f2243e804bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d42b6f8c-8596-4e19-9891-b3e9d61817b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d42b6f8c-8596-4e19-9891-b3e9d61817b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2f75fc59-75f1-4fb4-9279-2089a9ac2519\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"2f75fc59-75f1-4fb4-9279-2089a9ac2519\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"990f983e-2274-4fbf-9775-7114b9cd2972\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"990f983e-2274-4fbf-9775-7114b9cd2972\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e9b750d2-d6de-4689-b653-7816b020cb76\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e9b750d2-d6de-4689-b653-7816b020cb76\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"87c27eaa-461f-4fd5-9e09-fea4e56117a8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"87c27eaa-461f-4fd5-9e09-fea4e56117a8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4fcdaa3c-a693-4e0f-ad18-a2ec00e7b881\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4fcdaa3c-a693-4e0f-ad18-a2ec00e7b881\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4eb01028-c7f1-435b-9af1-b170041776c3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4eb01028-c7f1-435b-9af1-b170041776c3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d4b02763-9c78-44e0-8bf5-e0e04ceffc2e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d4b02763-9c78-44e0-8bf5-e0e04ceffc2e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4eb8f3c8-e295-4b8f-83c0-c8ae780ef9d8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4eb8f3c8-e295-4b8f-83c0-c8ae780ef9d8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 3900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"377b645f-4eef-4690-ab99-89d65b14bf0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"377b645f-4eef-4690-ab99-89d65b14bf0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d327bec7-5a14-4c1d-8070-1cff956247eb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d327bec7-5a14-4c1d-8070-1cff956247eb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"545f2d0d-775a-4ac4-ac50-78344f70ce69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"545f2d0d-775a-4ac4-ac50-78344f70ce69\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e694fa24-1089-477d-90be-a6d78e97a227\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e694fa24-1089-477d-90be-a6d78e97a227\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6fd214c4-0be0-4c57-b1d6-edcdb73cba2f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6fd214c4-0be0-4c57-b1d6-edcdb73cba2f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4fc418fb-22d5-4936-937d-52f7b299f473\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4fc418fb-22d5-4936-937d-52f7b299f473\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c454b220-34db-49d7-8972-875353e7c192\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c454b220-34db-49d7-8972-875353e7c192\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6e4c391f-9e00-4a2b-b769-35672ba636e0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6e4c391f-9e00-4a2b-b769-35672ba636e0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"1094fc24-3c6e-4d9d-951b-af63491fa475\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"1094fc24-3c6e-4d9d-951b-af63491fa475\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a19c14aa-c213-4024-babc-72c8bdfcce7e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a19c14aa-c213-4024-babc-72c8bdfcce7e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 4900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e08396b6-8a9f-45c7-a202-f8c4b1a64f9e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e08396b6-8a9f-45c7-a202-f8c4b1a64f9e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ce20d491-c853-45e8-9959-54b26b6a210f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ce20d491-c853-45e8-9959-54b26b6a210f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"140d5661-3745-4268-8cc6-4c178e2cc2be\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"140d5661-3745-4268-8cc6-4c178e2cc2be\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"693979c5-0f91-454d-8972-eeec5bc2a4c1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"693979c5-0f91-454d-8972-eeec5bc2a4c1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"461652e6-6f4d-423b-a0ed-4ee40b843c61\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"461652e6-6f4d-423b-a0ed-4ee40b843c61\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e07bb13b-a377-4b1d-9b61-e8f94b27f8c4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e07bb13b-a377-4b1d-9b61-e8f94b27f8c4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c33ab4b2-0504-46e9-bc9b-aaf0b5598852\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"c33ab4b2-0504-46e9-bc9b-aaf0b5598852\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"bcf97b74-6b2d-44d9-96a6-4f3c97208a79\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"bcf97b74-6b2d-44d9-96a6-4f3c97208a79\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d44ab80c-3c5e-4ed4-bbff-48ad8b2968b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d44ab80c-3c5e-4ed4-bbff-48ad8b2968b7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"69df9e4c-9393-4538-885e-e5a57c6de109\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"69df9e4c-9393-4538-885e-e5a57c6de109\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 5900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"254f2b89-3fc8-47bf-b418-165435926361\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"254f2b89-3fc8-47bf-b418-165435926361\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7b725f26-6d8b-40ee-8e30-d0e0b80e2ee4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7b725f26-6d8b-40ee-8e30-d0e0b80e2ee4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"bce800f5-f989-40ef-9b2e-08f5e875d34e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"bce800f5-f989-40ef-9b2e-08f5e875d34e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"48bae111-d495-4e0f-8793-d3be7734df1c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"48bae111-d495-4e0f-8793-d3be7734df1c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"3ba67d10-eaba-459f-998e-6ff2e7d5fc9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"3ba67d10-eaba-459f-998e-6ff2e7d5fc9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"89862060-0228-4874-95cd-de239f55fa5d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"89862060-0228-4874-95cd-de239f55fa5d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e342815f-8487-4f5f-a8bc-56d349c2c29a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"e342815f-8487-4f5f-a8bc-56d349c2c29a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ceb4487c-ff40-44e7-8dfa-1df47400ede5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"ceb4487c-ff40-44e7-8dfa-1df47400ede5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4b2899bc-fbd5-4053-a4ae-3bd0bcb1d164\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"4b2899bc-fbd5-4053-a4ae-3bd0bcb1d164\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"633fa546-9e49-46b6-9fbb-5269d97e90ff\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"633fa546-9e49-46b6-9fbb-5269d97e90ff\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 6900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a09cc307-c0e6-4fe1-af8b-68ac2b579108\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"a09cc307-c0e6-4fe1-af8b-68ac2b579108\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"f5699c1b-dcbc-41e5-a3bf-a80a2c582c63\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"f5699c1b-dcbc-41e5-a3bf-a80a2c582c63\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6fc25dfb-c7f8-42cc-b71f-03814620488e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"6fc25dfb-c7f8-42cc-b71f-03814620488e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d5e12e6c-86f3-445e-ba85-e327ad672132\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d5e12e6c-86f3-445e-ba85-e327ad672132\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8ecc7d63-3948-4fa7-906d-411a2a592ba0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8ecc7d63-3948-4fa7-906d-411a2a592ba0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d2ae36ad-cd7a-43ef-89d5-8302a62d3653\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d2ae36ad-cd7a-43ef-89d5-8302a62d3653\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8c41cabb-4f80-48e8-a873-0f16c8b7ca9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8c41cabb-4f80-48e8-a873-0f16c8b7ca9b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5f9a7dbb-0a2c-45fb-a2dc-b8d4f2583b7c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5f9a7dbb-0a2c-45fb-a2dc-b8d4f2583b7c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"391a4c59-45f3-49d2-bcc2-e525c02b3f5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"391a4c59-45f3-49d2-bcc2-e525c02b3f5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7c33f317-c19c-41cd-88f4-436bf8a336b2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7c33f317-c19c-41cd-88f4-436bf8a336b2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 7900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"45f2d627-a58c-47e0-a435-bbf6d9ac3529\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"45f2d627-a58c-47e0-a435-bbf6d9ac3529\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"31c3152e-fd33-4be8-a369-6d43f17eabba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"31c3152e-fd33-4be8-a369-6d43f17eabba\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8d0afeb9-1c78-4e00-9332-f6361dd6854a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"8d0afeb9-1c78-4e00-9332-f6361dd6854a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b8ea0311-8564-437d-b132-c73e9d3dfb5b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b8ea0311-8564-437d-b132-c73e9d3dfb5b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"9046a7be-db11-4011-af37-98e3ea0d63f9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"9046a7be-db11-4011-af37-98e3ea0d63f9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b95d8ca6-4717-4351-ac1a-0f6d1b4dc5e8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"b95d8ca6-4717-4351-ac1a-0f6d1b4dc5e8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"67589671-122b-45ae-b1f4-2211f9c8b6df\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"67589671-122b-45ae-b1f4-2211f9c8b6df\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"dd4d3cd2-cb5b-4112-8b9e-9446c0931fdc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"dd4d3cd2-cb5b-4112-8b9e-9446c0931fdc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"63557fb1-ff5a-423e-840e-fce163dd8d62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"63557fb1-ff5a-423e-840e-fce163dd8d62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"3f34a2b4-50ef-47ae-a14f-65ac25b6b375\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"3f34a2b4-50ef-47ae-a14f-65ac25b6b375\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 8900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"875a890f-3446-41fa-aa49-a82197262fe4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"875a890f-3446-41fa-aa49-a82197262fe4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"34553d9d-e53c-4584-b82a-2b8fe08f93f2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"34553d9d-e53c-4584-b82a-2b8fe08f93f2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5018be8d-9854-432d-a677-9d44f53db89f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5018be8d-9854-432d-a677-9d44f53db89f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"701c0e45-5fa3-4d4f-a7b1-102078b9218a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"701c0e45-5fa3-4d4f-a7b1-102078b9218a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"57534e72-40be-41ed-a7dd-f70e7d9297cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"57534e72-40be-41ed-a7dd-f70e7d9297cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"fadf9c9f-7163-4a7e-90b8-ec8ca51e46bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"fadf9c9f-7163-4a7e-90b8-ec8ca51e46bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d5b3c9f9-a28c-4b22-a17e-37ed13bf9d75\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"d5b3c9f9-a28c-4b22-a17e-37ed13bf9d75\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"22374280-b79d-4c14-90a4-6528caab23cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"22374280-b79d-4c14-90a4-6528caab23cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7e885e8e-6e4b-4367-b03d-64565a30c594\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"7e885e8e-6e4b-4367-b03d-64565a30c594\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"418347c4-94ba-401f-92d9-cb3cec73aae8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"418347c4-94ba-401f-92d9-cb3cec73aae8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 9900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5e52a3ad-724d-421f-87a9-1badae945dc0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"'AMETHYSTS'\", \"errorType\": \"KeyError\", \"requestId\": \"5e52a3ad-724d-421f-87a9-1badae945dc0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\", \"  File \\\"/var/task/trader.py\\\", line 24, in run\\n    curr_position : int = state.position[product]\\n\"]}",
+  "timestamp": 10000
+}
+{
+  "sandboxLog": "Lambda errors have reached maximum value for submission ea02dde3-8fab-41df-a789-7edfc506b8ee",
+  "lambdaLog": null,
+  "timestamp": 126322
+}
+
+
+
+Activities log:
+day;timestamp;product;bid_price_1;bid_volume_1;bid_price_2;bid_volume_2;bid_price_3;bid_volume_3;ask_price_1;ask_volume_1;ask_price_2;ask_volume_2;ask_price_3;ask_volume_3;mid_price;profit_and_loss
+
+
+
+
+Trade History:
+null
