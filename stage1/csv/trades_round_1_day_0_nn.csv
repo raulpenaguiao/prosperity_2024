@@ -1,4 +1,3 @@
-sep=;
 timestamp;buyer;seller;symbol;currency;price;quantity
 100;;;STARFRUIT;SEASHELLS;5041.0;4
 100;;;AMETHYSTS;SEASHELLS;10002.0;1
