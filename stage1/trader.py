@@ -13,8 +13,8 @@ class Trader:
 
         products = ["STARFRUIT", "AMETHYSTS"]
         limits = {p:20 for p in products}
-        means = {products[0]:5058.63895, product[1]:9999.99975} #Using data from day0
-        stdevs = {products[0]:1.496228, product[1]:11.717389} #Using data from day0
+        means = {products[0]:5058.63895, products[1]:9999.99975} #Using data from day0
+        stdevs = {products[0]:1.496228, products[1]:11.717389} #Using data from day0
         
         for product in state.order_depths:
             order_depth: OrderDepth = state.order_depths[product]
